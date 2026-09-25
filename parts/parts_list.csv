@@ -1,0 +1,63 @@
+Qty,BrickLink part ID,Part,Colour,BrickLink colour ID
+4,3004,Brick 1x2,Medium Nougat,150
+4,3008,Brick 1x8,Medium Nougat,150
+2,3003,Brick 2x2,Medium Nougat,150
+1,3001,Brick 2x4,Medium Nougat,150
+5,2456,Brick 2x6,Medium Nougat,150
+22,3007,Brick 2x8,Medium Nougat,150
+5,3022,Plate 2x2,Medium Nougat,150
+3,3020,Plate 2x4,Medium Nougat,150
+9,3795,Plate 2x6,Medium Nougat,150
+49,3034,Plate 2x8,Medium Nougat,150
+4,4162,Tile 1x8,Medium Nougat,150
+4,87079,Tile 2x4,Medium Nougat,150
+2,3005,Brick 1x1,Dark Purple,89
+3,3004,Brick 1x2,Dark Purple,89
+6,3010,Brick 1x4,Dark Purple,89
+2,3009,Brick 1x6,Dark Purple,89
+13,3008,Brick 1x8,Dark Purple,89
+4,3003,Brick 2x2,Dark Purple,89
+13,3001,Brick 2x4,Dark Purple,89
+5,2456,Brick 2x6,Dark Purple,89
+50,3007,Brick 2x8,Dark Purple,89
+4,3022,Plate 2x2,Dark Purple,89
+18,3020,Plate 2x4,Dark Purple,89
+16,3795,Plate 2x6,Dark Purple,89
+119,3034,Plate 2x8,Dark Purple,89
+76,15068,"Slope, Curved 2x2 x 2/3",Dark Purple,89
+14,4162,Tile 1x8,Dark Purple,89
+20,3068,Tile 2x2,Dark Purple,89
+1,87079,Tile 2x4,Dark Purple,89
+32,3005,Brick 1x1,Trans-Light Blue,15
+64,3024,Plate 1x1,Trans-Light Blue,15
+29,3003,Brick 2x2,Black,11
+4,3001,Brick 2x4,Black,11
+6,2456,Brick 2x6,Black,11
+111,3007,Brick 2x8,Black,11
+58,3022,Plate 2x2,Black,11
+8,3020,Plate 2x4,Black,11
+8,3795,Plate 2x6,Black,11
+30,3034,Plate 2x8,Black,11
+1,6636,Tile 1x6,Black,11
+59,4162,Tile 1x8,Black,11
+6,3068,Tile 2x2,Black,11
+1,26603,Tile 2x3,Black,11
+10,87079,Tile 2x4,Black,11
+2,3003,Brick 2x2,Medium Lavender,157
+4,3022,Plate 2x2,Medium Lavender,157
+3,3004,Brick 1x2,Dark Tan,69
+2,3010,Brick 1x4,Dark Tan,69
+4,3008,Brick 1x8,Dark Tan,69
+14,3003,Brick 2x2,Dark Tan,69
+1,3002,Brick 2x3,Dark Tan,69
+36,3001,Brick 2x4,Dark Tan,69
+11,2456,Brick 2x6,Dark Tan,69
+69,3007,Brick 2x8,Dark Tan,69
+29,3022,Plate 2x2,Dark Tan,69
+63,3020,Plate 2x4,Dark Tan,69
+27,3795,Plate 2x6,Dark Tan,69
+145,3034,Plate 2x8,Dark Tan,69
+6,4162,Tile 1x8,Dark Tan,69
+3,3068,Tile 2x2,Dark Tan,69
+4,87079,Tile 2x4,Dark Tan,69
+1,69729,Tile 2x6,Dark Bluish Gray,85
