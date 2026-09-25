@@ -5,6 +5,15 @@ Inspired by [@victormustar](https://x.com/victormustar)'s Microduck.
 
 ![Finished bust](images/finished_bust.jpg)
 
+## 📘 Build instructions (66-page PDF)
+
+**[Read the booklet online](instructions/cryptopunk_XL_instructions.pdf)** · **[Download the PDF](https://github.com/hs7j4yk4sz-boop/cryptopunk-brick-bust/releases/latest/download/cryptopunk_XL_instructions.pdf)** · [BrickLink wanted list](parts/bricklink_wanted_list.xml)
+
+<a href="instructions/cryptopunk_XL_instructions.pdf"><img src="images/booklet/page_01.jpg" width="24%" alt="Cover"></a>
+<a href="instructions/cryptopunk_XL_instructions.pdf"><img src="images/booklet/page_02.jpg" width="24%" alt="Step 1"></a>
+<a href="instructions/cryptopunk_XL_instructions.pdf"><img src="images/booklet/page_21.jpg" width="24%" alt="Step 20"></a>
+<a href="instructions/cryptopunk_XL_instructions.pdf"><img src="images/booklet/page_65.jpg" width="24%" alt="Parts inventory"></a>
+
 | | |
 |---|---|
 | Pieces | 1,329 standard parts (62 lots) |
